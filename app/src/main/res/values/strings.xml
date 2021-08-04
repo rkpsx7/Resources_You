@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Resources_You</string>
+    <string name="doe">Doe</string>
+    <string name="last_name">Last Name :</string>
+    <string name="jonathan">Jonathan</string>
+    <string name="select_option">Select Option</string>
+    <string name="title">Title :</string>
+    <string name="add_new_employee">Add new Employee</string>
+</resources>
